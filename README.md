@@ -1,5 +1,5 @@
-#This is my local repo 
-I made this repo in vs code 
+# This is my local repo 
+I made this repo in vs code (in first line is heading which contains # and a space) 
 <br>
 Instead of using github We can also make folder and all things in vs code by commonds...
 <br>
