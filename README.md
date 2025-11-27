@@ -9,7 +9,7 @@ git clone link - link of github repo
 <br>
 cd Folder or file address
 <br>
---modifie the repo
+--> modify the repo
 <br>
 git add . 
 <br>
